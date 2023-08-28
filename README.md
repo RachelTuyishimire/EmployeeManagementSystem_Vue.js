@@ -1,6 +1,3 @@
-## Please find the attached link to the hosted App
-https://employee-management-system-vue-js.vercel.app/
-
 
 # demo_app
 
